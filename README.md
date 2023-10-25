@@ -27,7 +27,6 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Secondary missions
 
 * Expanding the Base
-    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. There still seems to be bug that puts you in an endless loop, so I decided not to try to do anything with this.
     * Scientific Research [Completed](https://nomanssky.fandom.com/wiki/Scientific_Research)
     * Weapons Research [Completed](https://nomanssky.fandom.com/wiki/Weapons_Research)
     * Exocraft Research [Completed](https://nomanssky.fandom.com/wiki/Exocraft_Technician)
@@ -36,8 +35,8 @@ If you are a long-time player or chronic restarter (like me), this will help you
 * Starbirth [Completed](https://nomanssky.fandom.com/wiki/Starbirth)
 * The Settlers [Completed](https://nomanssky.fandom.com/wiki/Planetary_Settlement)
 * A Trace of Metal [Completed](https://nomanssky.fandom.com/wiki/A_Trace_of_Metal)
-* Under A Rebel Star ___ Not Started
-* There are many more missions and quests that were never done. Additionally, this save file is an offline project, so no multiplayer or expeditions were ever undertaken.
+* Under A Rebel Star ___ Not Started because I decided I wouldn't be a good pirate.
+* There are other missions and quests that were not done. This save file is an offline project because I don't do multiplayer, so no expeditions were ever undertaken.
 
 ### Steps
 
