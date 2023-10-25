@@ -1,12 +1,12 @@
 # Beyond The Purge
 
-Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new **Autophage Questline**. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see [this page](https://github.com/limbosworld/NMS-The-Purge).
+Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new **Autophage Questline**. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see [this page](https://github.com/limbosworld/NMS-The-Purge). 
 
 ## Description
 
-If you are a long-time player or chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (in your log) a second portal base in Eisentamm. Now you can jump back and forth between Euclid and Eisentamm and use the portals to explore each galaxy.
+Whether you are new to the game, a long-time player or a chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (in your log) a second portal base in Eisentamm. Now you can jump back and forth between Euclid and Eisentamm and use the portals to explore each galaxy.
 
-#### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over.
+#### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over. 
 
 ##     
 
@@ -35,8 +35,8 @@ If you are a long-time player or chronic restarter (like me), this will help you
 * Starbirth [Completed](https://nomanssky.fandom.com/wiki/Starbirth)
 * The Settlers [Completed](https://nomanssky.fandom.com/wiki/Planetary_Settlement)
 * A Trace of Metal [Completed](https://nomanssky.fandom.com/wiki/A_Trace_of_Metal)
-* Under A Rebel Star ___ Not Started because I decided I wouldn't be a good pirate.
-* There are other missions and quests that were not done. This save file is an offline project because I don't do multiplayer, so no expeditions were ever undertaken.
+* Under A Rebel Star was not started because I didn't want to have a new save file that was too big or displayed too much in game play-time. Currently the play-time is about 6.5 hours.
+* There are other missions and quests that were not done. I don't do multiplayer and no expeditions were ever undertaken.
 
 ### Steps
 
@@ -51,14 +51,14 @@ If you are a long-time player or chronic restarter (like me), this will help you
 9.  Copy and paste all code into the Raw JSON editor.
 10. Close the raw JSON window and save. Also, click save changes before closing the save editor.
 
-#### When you start your new save, you will now be on a paradise planet with a small base. A portal will be flaged with a red final interface marker on another planet in your system. Go into space and you will see it. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
+#### When you start your new save, the only thing that should be in your mission log is: The Setters Base Computer Archivesggggggggggggggggggggg
 
 You don't have to complete The Purge right away. Now that it's flagged, it will just remain in your log until you are ready do so.
 
 #### 
 
 ### Note:
-* This was done on NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This new save file was created with a fresh install of NMS 4.45 and with the help of NMSSaveEditor 1.14.4 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
 * There is almost 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It's not hard doing those missions (especially in creative mode) ... it just takes time getting through it all.
 
