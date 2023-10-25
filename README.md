@@ -4,7 +4,7 @@ Another custom mode save game file for players who want to skip the main mission
 
 ## Description
 
-Whether you are new to the game, a long-time player or a chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (in your log) a second portal base in Eisentamm. Now you can jump back and forth between Euclid and Eisentamm and use the portals to explore each galaxy.
+Whether you are new to the game, a long-time player or a chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (in your log) a second portal base in Eisentamm. Now you can jump back and forth between Euclid and Eisentam and use the portals to explore each galaxy.
 
 #### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over. 
 
@@ -61,10 +61,10 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
 
 ### Euclid portal base:
 
-![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/euclidbase.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/euclid.jpg)
 
-### Eisentamm portal base:
+### Eisentam portal base and Settlement:
 
-![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/euclidbase.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/eissentamm.jpg)
 
 
