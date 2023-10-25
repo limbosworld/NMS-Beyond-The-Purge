@@ -33,10 +33,9 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
     * Agricultural Research [Completed](https://nomanssky.fandom.com/wiki/Agricultural_Research)
 * Dreams of the Deep [Completed](https://nomanssky.fandom.com/wiki/Dreams_of_the_Deep)
 * Starbirth [Completed](https://nomanssky.fandom.com/wiki/Starbirth)
-* The Settlers [Completed](https://nomanssky.fandom.com/wiki/Planetary_Settlement)
+* The Settlers [All Building Completed](https://nomanssky.fandom.com/wiki/Planetary_Settlement) ,but this mission never ends. There will always be a dispute or a decision pending .. Just ignor it.
 * A Trace of Metal [Completed](https://nomanssky.fandom.com/wiki/A_Trace_of_Metal)
-* Under A Rebel Star was not started because I didn't want to have a new save file that was too big or displayed too much in game play-time. Currently the play-time is about 6.5 hours.
-* There are other missions and quests that were not done. I don't do multiplayer and no expeditions were ever undertaken.
+* Under A Rebel Star [Not Completed](https://nomanssky.fandom.com/wiki/Under_a_Rebel_Star?so=search) was not started because I didn't want to have a new save file that was too big or displayed too much in game play-time. Currently the play-time is about 6.5 hours. Additionally, there are other missions and quests that were not done. I don't do multiplayer and no expeditions were ever undertaken.
 
 ### Steps
 
@@ -51,25 +50,20 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
 9.  Copy and paste all code into the Raw JSON editor.
 10. Close the raw JSON window and save. Also, click save changes before closing the save editor.
 
-#### When you start your new save, the only thing that should be in your mission log is: The Setters Base Computer Archivesggggggggggggggggggggg
-
-You don't have to complete The Purge right away. Now that it's flagged, it will just remain in your log until you are ready do so.
-
-#### 
+#### When you start your new save, the only thing that should be in your mission log is: The Settlers and Base Computer Archives
 
 ### Note:
 * This new save file was created with a fresh install of NMS 4.45 and with the help of NMSSaveEditor 1.14.4 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
-* There is almost 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It's not hard doing those missions (especially in creative mode) ... it just takes time getting through it all.
-
 * Don't forget to change your game mode or difficulty settings to what you like... then get a better multi-tool, ship and freighter.
-#### Happy hunting travler!
 
 #### 
 
-
-
 ### Euclid portal base:
+
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/euclidbase.jpg)
+
+### Eisentamm portal base:
 
 ![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/euclidbase.jpg)
 
