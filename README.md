@@ -1,10 +1,11 @@
-# The Purge
+# Beyond The Purge
 
-A custom mode save game file for players who want to skip most of the main missions which have been around (mainly unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or the many other new quests and expeditions.
+Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new Autophage Questline. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see this page.
 
 ## Description
 
-If you are a long-time player or chronic restarter (like me), this will help you each time you want to start a new save. When you load this save, you will be about 5 minutes away from completing The Purge which is the last of the main storyline missions.
+If you are a long-time player or chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (in your log) a second portal base in Eisentamm. Now you can jump back and forth between Euclid and Eisentamm and use the portals to explore each galaxy.
+
 #### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over.
 
 ##     
