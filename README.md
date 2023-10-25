@@ -1,6 +1,6 @@
 # Beyond The Purge
 
-Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new Autophage Questline. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see this page.
+Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new **Autophage Questline**. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see [this page](https://github.com/limbosworld/NMS-The-Purge).
 
 ## Description
 
@@ -15,14 +15,14 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Primary missions
 
 * Awakenings [Completed](https://nomanssky.fandom.com/wiki/Awakenings)
-* The Atlas Path [Completed](https://nomanssky.fandom.com/wiki/The_Atlas_Path#The_Final_Atlas_Interface) .. By that, I mean the part where you collect all the seeds and birth a new star was completed. This mission tends to repeat itself even after you complete it though. Read about it in the [Wiki](https://nomanssky.fandom.com/wiki/The_Atlas_Path#Completion_and_Mission_Log)
+* The Atlas Path [Completed](https://nomanssky.fandom.com/wiki/The_Atlas_Path#The_Final_Atlas_Interface)
 * Alone Amidst the Stars [Completed](https://nomanssky.fandom.com/wiki/Alone_Amidst_the_Stars)
 * Ghosts in the Machine [Completed](https://nomanssky.fandom.com/wiki/Ghosts_in_the_Machine)
 * A Leap in the Dark [Completed](https://nomanssky.fandom.com/wiki/A_Leap_in_the_Dark)
 * The First Traveller [Completed](https://nomanssky.fandom.com/wiki/The_First_Traveller)
 * Patterns in Time [Completed](https://nomanssky.fandom.com/wiki/Patterns_in_Time)
 * 16 / 16 [Completed](https://nomanssky.fandom.com/wiki/16_/_16)
-* The Purge [Will be completed when you pick a new galaxy](https://nomanssky.fandom.com/wiki/The_Purge)
+* The Purge [Completed](https://nomanssky.fandom.com/wiki/The_Purge)
 
 ### Secondary missions
 
@@ -33,9 +33,9 @@ If you are a long-time player or chronic restarter (like me), this will help you
     * Exocraft Research [Completed](https://nomanssky.fandom.com/wiki/Exocraft_Technician)
     * Agricultural Research [Completed](https://nomanssky.fandom.com/wiki/Agricultural_Research)
 * Dreams of the Deep [Completed](https://nomanssky.fandom.com/wiki/Dreams_of_the_Deep)
-* Starbirth ______________ Not Started
-* The Settlers ___________ Not Started
-* A Trace of Metal ______ Not Started
+* Starbirth [Completed](https://nomanssky.fandom.com/wiki/Starbirth)
+* The Settlers [Completed](https://nomanssky.fandom.com/wiki/Planetary_Settlement)
+* A Trace of Metal [Completed](https://nomanssky.fandom.com/wiki/A_Trace_of_Metal)
 * Under A Rebel Star ___ Not Started
 * There are many more missions and quests that were never done. Additionally, this save file is an offline project, so no multiplayer or expeditions were ever undertaken.
 
