@@ -67,5 +67,6 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
 This overgrown planet is beautiful, but it does have super heated rainstorms. They don't last long though and are not too frequent. 
 
 ![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/eissentam.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/pub.jpg)
 
 
