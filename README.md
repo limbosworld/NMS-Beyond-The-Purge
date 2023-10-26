@@ -1,10 +1,10 @@
 # Beyond The Purge
 
-Another custom mode save game file for players who want to skip the main missions which have been around for years and get straight to exploring, building or starting the new **Autophage Questline**. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see [this page](https://github.com/limbosworld/NMS-The-Purge). 
+Another custom mode save game file for players who want to skip most of the main missions and get straight to exploring, building or starting the new **Autophage Questline**. If you are wanting to complete The Purge yourself so you can pick your own galaxy type, see [this page](https://github.com/limbosworld/NMS-The-Purge). 
 
 ## Description
 
-Whether you are new to the game, a long-time player or a chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice when you activate your Base Teleportor, a second portal base in Eisentam and a settlement on the otherside of the planet. Now you can jump back and forth between Euclid and Eisentam and use the portals to explore each galaxy.
+Whether you are new to the game, a long-time player or a chronic restarter (like me), this will help you each time you want to start a new game. When you load this save, you will be on a Paradise planet with a small portal base. The Purge will have been completed and you will notice (when you activate your Base Teleportor) a second portal base in Eisentam and a settlement on the same planet. Now you can jump back and forth between Euclid and Eisentam and use the portals to explore each galaxy.
 
 #### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over. 
 
@@ -53,7 +53,7 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
 #### When you start your new save, the only thing that should be in your mission log is: The Settlers and Base Computer Archives
 
 ### Note:
-* This new save file was created with a fresh install of NMS 4.45 and with the help of NMSSaveEditor 1.14.4 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This new save file was created with a fresh install of NMS 4.45 and with the help of NMSSaveEditor 1.14.4
 
 * Don't forget to change your game mode or difficulty settings to what you like... then get a better multi-tool, ship and freighter.
 
@@ -65,6 +65,6 @@ Whether you are new to the game, a long-time player or a chronic restarter (like
 
 ### Eisentam portal base and Settlement:
 
-![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/eissentamm.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-Beyond-The-Purge/main/eissentam.jpg)
 
 
